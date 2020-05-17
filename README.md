@@ -12,4 +12,6 @@ The code file is structured as follows :
 
 2) The book-item matrix : We use it to compute the distances of the books. We deal with its sparsity by considering its CSR representation.
 
-3) 
+3) The model that computes distances : We use the unsupervised version of the Nearest Neighbors algorithm
+
+4) The recommender system
